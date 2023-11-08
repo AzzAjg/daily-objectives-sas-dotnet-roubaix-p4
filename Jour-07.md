@@ -9,8 +9,8 @@
 
 ### Git
 
-- [ ] Installation et configuration de Git
-- [ ] Comprendre le concept de versionning
+- [x] Installation et configuration de Git
+- [x] Comprendre le concept de versionning
 - [ ] Comprendre le fonctionnement de Git
     - [ ] Comprendre le staging de Git
     - [ ] Comprendre le fonctionnent et l'utilité des commandes de bases de Git :
@@ -23,9 +23,9 @@
         - [ ] git clone
         - [ ] git remote
 - [ ] Faire le parcours Git-it (Nodeschool.io)
-- [ ] Comprendre les termes "local", "origin" et "upstream"
-- [ ] Faire ses premiers commits sur les daily objectives (plusieurs commits par jour pour les débutants)
-- [ ] Faire ses premiers pushs des daily-objectives sur son compte Github
+- [x] Comprendre les termes "local", "origin" et "upstream"
+- [x] Faire ses premiers commits sur les daily objectives (plusieurs commits par jour pour les débutants)
+- [x] Faire ses premiers pushs des daily-objectives sur son compte Github
 
 ### Profiles Professionnels
 
@@ -43,10 +43,10 @@
 
 #### Github
 
-- [ ] Création de compte Github
+- [x] Création de compte Github
 - [ ] Pimper son profile Github (belle du village)
-- [ ] Comprendre comment fonctionnent du chiffrement et des clés asymétriques
-  - [ ] Créer un tunnel SSH entre local et Github
+- [x] Comprendre comment fonctionnent du chiffrement et des clés asymétriques
+  - [x] Créer un tunnel SSH entre local et Github
 - [ ] Découvrir l'interface de Github :
 - [ ] Pull Requests
 - [ ] Branches
