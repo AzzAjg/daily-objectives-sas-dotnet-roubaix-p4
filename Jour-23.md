@@ -16,16 +16,16 @@
 
 #### Conception base de données :
 
-- [ ] Découvrir la méthode `MERISE` :
-    - [ ] Découvrir ce que l'acronyme `MERISE` signifie
-    - [ ] Comprendre le process et l'utilité des différentes phases / étapes : 
-        - [ ] `MCD`
-        - [ ] `MLD`
-        - [ ] `MPD`
+- [x] Découvrir la méthode `MERISE` :
+    - [x] Découvrir ce que l'acronyme `MERISE` signifie
+    - [x] Comprendre le process et l'utilité des différentes phases / étapes : 
+        - [x] `MCD`
+        - [x] `MLD`
+        - [x] `MPD`
 
 #### PostgreSQL : 
 
 - [ ] Mettre en place la base de données à partir des diagrammes fournis (attention aux droits et aux rôles, pas de droits root) : 
-    - [ ] [`MCD`](./img/mcd.png)
-    - [ ] [`MLD`](./img/mld.png)
+    - [ ] [`MCD`](/img/mcd.png)
+    - [ ] [`MLD`](/img/mld.png)
 
